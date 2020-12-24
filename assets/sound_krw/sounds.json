@@ -1,0 +1,472 @@
+{
+  "train.800BcOff": {
+    "category": "neutral",
+    "sounds": [
+      "train/800BcOff"
+    ]
+ },
+
+  "train.800BcOn": {
+    "category": "neutral",
+    "sounds": [
+      "train/800BcOn"
+    ]
+ },
+
+  "train.800Horn1": {
+    "category": "neutral",
+    "sounds": [
+      "train/800Horn1"
+    ]
+ },
+
+  "train.800Horn2": {
+    "category": "neutral",
+    "sounds": [
+      "train/800Horn2"
+    ]
+ },
+
+  "train.800EB": {
+    "category": "neutral",
+    "sounds": [
+      "train/800EB"
+    ]
+ },
+
+  "train.ch0": {
+    "category": "neutral",
+    "sounds": [
+      "train/ch0"
+    ]
+ },
+
+  "train.ch1": {
+    "category": "neutral",
+    "sounds": [
+      "train/ch1"
+    ]
+ },
+
+  "train.ch1d": {
+    "category": "neutral",
+    "sounds": [
+      "train/ch1d"
+    ]
+ },
+
+  "train.ch2": {
+    "category": "neutral",
+    "sounds": [
+      "train/ch2"
+    ]
+ },
+
+  "train.ch2d": {
+    "category": "neutral",
+    "sounds": [
+      "train/ch2d"
+    ]
+ },
+
+  "train.ch3": {
+    "category": "neutral",
+    "sounds": [
+      "train/ch3"
+    ]
+ },
+
+
+  "train.2000_0": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000_0"
+    ]
+ },
+
+  "train.2000_0d": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000_0d"
+    ]
+ },
+
+  "train.2000_1": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000_1"
+    ]
+ },
+
+  "train.2000_1d": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000_1d"
+    ]
+ },
+
+  "train.2000_2": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000_2"
+    ]
+ },
+
+  "train.2000Brake1": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000Brake1"
+    ]
+ },
+
+  "train.2000CPS": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000CPS"
+    ]
+ },
+
+  "train.2000CPE": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000CPE"
+    ]
+ },
+
+  "train.2000CPL": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000CPL"
+    ]
+ },
+
+  "train.2000DoorOpn": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000DoorOpn"
+    ]
+ },
+
+  "train.2000DoorCls": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000DoorCls"
+    ]
+ },
+
+  "train.2000Sq": {
+    "category": "neutral",
+    "sounds": [
+      "train/2000Sq"
+    ]
+ },
+
+
+
+  "train.Pattern_Action10": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action10"
+    ]
+ },
+
+  "train.Pattern_Action11": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action11"
+    ]
+ },
+
+  "train.Pattern_Action12": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action12"
+    ]
+ },
+
+  "train.Pattern_Action13": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action13"
+    ]
+ },
+
+  "train.Pattern_Action14": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action14"
+    ]
+ },
+
+  "train.Pattern_Action15": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action15"
+    ]
+ },
+
+  "train.Pattern_Action16": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action16"
+    ]
+ },
+
+  "train.Pattern_Action17": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action17"
+    ]
+ },
+
+  "train.Pattern_Action18": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action18"
+    ]
+ },
+
+  "train.Pattern_Action19": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action19"
+    ]
+ },
+
+  "train.Pattern_Action20": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action20"
+    ]
+ },
+
+  "train.Pattern_Action21": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action21"
+    ]
+ },
+
+  "train.Pattern_Action22": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Action22"
+    ]
+ },
+
+
+  "train.Pattern_Arr": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Arr"
+    ]
+ },
+
+  "train.Pattern_Emr": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Emr"
+    ]
+ },
+
+  "train.Pattern_Emr2": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Emr2"
+    ]
+ },
+
+  "train.Pattern_Offing": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_Offing"
+    ]
+ },
+
+  "train.Pattern_ATS": {
+    "category": "neutral",
+    "sounds": [
+      "train/Pattern_ATS"
+    ]
+ },
+
+  "train.Switch_ATC": {
+    "category": "neutral",
+    "sounds": [
+      "train/Switch_ATC"
+    ]
+ },
+
+  "train.Switch_ATS": {
+    "category": "neutral",
+    "sounds": [
+      "train/Switch_ATS"
+    ]
+ },
+
+  "train.ATS_ORP": {
+    "category": "neutral",
+    "sounds": [
+      "train/ATS_ORP"
+    ]
+ },
+
+  "train.ATS_Stopping": {
+    "category": "neutral",
+    "sounds": [
+      "train/ATS_Stopping"
+    ]
+ },
+
+
+
+  "train.KRWAirHorn1": {
+    "category": "neutral",
+    "sounds": [
+      "train/KRWAirHorn1"
+    ]
+ },
+
+  "train.KRWAirHorn2": {
+    "category": "neutral",
+    "sounds": [
+      "train/KRWAirHorn2"
+    ]
+ },
+
+  "train.KRWDoorAnnounce": {
+    "category": "neutral",
+    "sounds": [
+      "train/KRWDoorAnnounce"
+    ]
+ },
+
+  "train.KRWEHorn1": {
+    "category": "neutral",
+    "sounds": [
+      "train/KRWEHorn1"
+    ]
+ },
+
+  "train.KRWEHorn2": {
+    "category": "neutral",
+    "sounds": [
+      "train/KRWEHorn2"
+    ]
+ },
+
+
+
+  "train.ED60BlowerLoop": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60BlowerLoop"
+    ]
+ },
+
+  "train.ED60BlowerOn": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60BlowerOn"
+    ]
+ },
+
+  "train.ED60Brake": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60Brake"
+    ]
+ },
+
+  "train.ED60EB": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60EB"
+    ]
+ },
+
+  "train.ED60Horn1": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60Horn1"
+    ]
+ },
+
+  "train.ED60Horn2": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60Horn2"
+    ]
+ },
+
+  "train.ED60PantaDown": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60PantaDown"
+    ]
+ },
+
+  "train.ED60PantaUp": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60PantaUp"
+    ]
+ },
+
+  "train.ED60Stop": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60Stop"
+    ]
+ },
+
+  "train.ED60CP_On": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60CP_On"
+    ]
+ },
+
+  "train.ED60CP_Loop": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60CP_Loop"
+    ]
+ },
+
+  "train.ED60CP_Off": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60CP_Off"
+    ]
+ },
+
+  "train.ED60Squeak": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60Squeak"
+    ]
+ },
+
+  "train.ED60BreakerOn": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60BreakerOn"
+    ]
+ },
+
+  "train.ED60BreakerOff": {
+    "category": "neutral",
+    "sounds": [
+      "train/ED60BreakerOff"
+    ]
+ },
+
+  "train.KRWnull": {
+    "category": "neutral",
+    "sounds": [
+      "train/KRWnull"
+    ]
+ }
+
+}
